@@ -1,0 +1,24 @@
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Automation Test.exe
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\obj\Debug\netcoreapp3.1\Automation Test.csprojAssemblyReference.cache
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\obj\Debug\netcoreapp3.1\Automation Test.AssemblyInfoInputs.cache
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\obj\Debug\netcoreapp3.1\Automation Test.AssemblyInfo.cs
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\obj\Debug\netcoreapp3.1\Automation Test.csproj.CopyComplete
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\FluentAssertions.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Automation Test.deps.json
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Automation Test.runtimeconfig.json
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Automation Test.runtimeconfig.dev.json
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Automation Test.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Automation Test.pdb
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\bin\Debug\netcoreapp3.1\Docker.DotNet.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\obj\Debug\netcoreapp3.1\Automation Test.dll
+C:\Users\theodora.boca\source\repos\Automation Test\Automation Test\obj\Debug\netcoreapp3.1\Automation Test.pdb
